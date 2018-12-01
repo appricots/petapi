@@ -37,12 +37,14 @@ You can run Get or Post requests via swagger by pressing "Try it out" buttons ne
 Swagger: http://2f29ae37.ngrok.io/swagger-ui.html
 From there you can see the pet-controller and execute same API calls.
 
-GET
-http://2f29ae37.ngrok.io/pets
-http://2f29ae37.ngrok.io/pets/Pug
-http://2f29ae37.ngrok.io/pet/12
+`GET`
 
-POST 
-http://2f29ae37.ngrok.io/vote/25/true   (vote up)
-http://2f29ae37.ngrok.io/vote/25/false  (vote down)
+- http://2f29ae37.ngrok.io/pets
+- http://2f29ae37.ngrok.io/pets/Pug
+- http://2f29ae37.ngrok.io/pet/12
+
+`POST` 
+
+- http://2f29ae37.ngrok.io/vote/25/true   (vote up)
+- http://2f29ae37.ngrok.io/vote/25/false  (vote down)
 
